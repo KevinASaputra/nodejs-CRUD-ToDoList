@@ -24,7 +24,7 @@ Full tech stack [here](/techstack.md)
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [KevinASaputra/nodejs-CRUD-ToDoList](https://github.com/KevinASaputra/nodejs-CRUD-ToDoList)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|6<br/>Tools used|12/08/23 <br/>Report generated|
+|7<br/>Tools used|01/05/24 <br/>Report generated|
 |------|------|
 </div>
 
@@ -76,12 +76,13 @@ Full tech stack [here](/techstack.md)
 </table>
 
 
-## <img src='https://img.stackshare.io/group.svg' /> Open source packages (2)</h2>
+## <img src='https://img.stackshare.io/group.svg' /> Open source packages (3)</h2>
 
-## <img width='24' height='24' src='https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png'/> npm (2)
+## <img width='24' height='24' src='https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png'/> npm (3)
 
 |NAME|VERSION|LAST UPDATED|LAST UPDATED BY|LICENSE|VULNERABILITIES|
 |:------|:------|:------|:------|:------|:------|
+|[chalk](https://www.npmjs.com/chalk)|v4.1.0|07/26/23|Kevin |MIT|N/A|
 |[validator](https://www.npmjs.com/validator)|v13.5.2|07/26/23|Kevin |MIT|[CVE-2021-3765](https://github.com/advisories/GHSA-qgmg-gppg-76g5) (Moderate)<br/>[](https://github.com/advisories/GHSA-xx4c-jj58-r7x6) (Moderate)|
 |[yargs](https://www.npmjs.com/yargs)|v16.2.0|07/26/23|Kevin |MIT|N/A|
 
